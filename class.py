@@ -5,4 +5,4 @@ while chaine.lower() != "c":
     print("Tapez 'C' pour quitter...")
     chaine = input()
 
-print("Merci Batard !")
+print("Merci Cono !")
